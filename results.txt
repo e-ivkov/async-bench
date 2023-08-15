@@ -1,0 +1,12 @@
+Generating file
+Generated file
+Starting simple server
+simple server throughput: 108.06196111794956 MB/s
+simple server response_time: 0.05199462403748021 s
+Starting thread pooled server
+thread_pooled server throughput: 106.93008047386341 MB/s
+thread_pooled server response_time: 0.047770146658460355 s
+Shutting down server
+Starting tokio server
+tokio server throughput: 213.06305193176627 MB/s
+tokio server response_time: 0.03693660367969995 s
